@@ -51,7 +51,7 @@ def game():
           if turns == 0 :    # if turns = 0 print 'you loose'
              print('---- You loose ----')
              
-
+game()
 
 
 
